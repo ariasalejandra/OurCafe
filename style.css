@@ -49,3 +49,14 @@ nav a {
 nav li:hover {
   background-color: #c6b59e;
 }
+table {
+  text-align: center;
+  padding: 2em;
+}
+.labelthing {
+  vertical-align: middle;
+}
+fieldset {
+  display: block;
+  line-height: 1.5;
+}
